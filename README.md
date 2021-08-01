@@ -1,3 +1,3 @@
 # URI 
 
-Soluções em javascript de exercícios do [URI](https://www.urionlinejudge.com.br) 
+Soluções com javascript de exercícios do [URI](https://www.urionlinejudge.com.br) 
